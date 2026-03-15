@@ -1,0 +1,906 @@
+[
+  {
+    "id": 0,
+    "indice": 1,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto",
+      "Geografia",
+      "Interpretação de mapa"
+    ],
+    "enunciado": "Com base no texto e com o auxílio do mapa, é correto afirmar que ",
+    "alternativa_a": "a Amazônia Internacional é administrada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). ",
+    "alternativa_b": "os estados da Região Norte do Brasil estão totalmente inseridos na Amazônia Legal. ",
+    "alternativa_c": "o estado do Maranhão, por pertencer à Região Norte, faz parte da Amazônia Legal. ",
+    "alternativa_d": "a bacia hidrográfica do Amazonas engloba todos os rios da América do Sul. ",
+    "alternativa_e": "o Bioma Amazônia se estende da Venezuela até o sul da Argentina. ",
+    "resposta": "B",
+    "texto": 0,
+    "imagem": "img0.png"
+  },
+  {
+    "id": 1,
+    "indice": 2,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Geografia"
+    ],
+    "enunciado": "A Amazônia Legal ",
+    "alternativa_a": "abrange todos os estados da Região Centro-Oeste do Brasil. ",
+    "alternativa_b": "localiza-se totalmente no hemisfério sul da Terra. ",
+    "alternativa_c": "engloba a maior parte do Bioma Amazônia. ",
+    "alternativa_d": "inclui todas as reservas indígenas existentes no Brasil. ",
+    "alternativa_e": "avança sobre o polígono das secas, no Nordeste brasileiro. ",
+    "resposta": "C",
+    "texto": 0,
+    "imagem": "img0.png"
+  },
+  {
+    "id": 2,
+    "indice": 3,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Geografia"
+    ],
+    "enunciado": "Apesar de ser um maciço florestal contínuo, a Floresta Amazônica, por sua grande extensão, é composta por estratos, cada um com características que os diferenciam uns dos outros.\n Ela está subdivida em ",
+    "alternativa_a": "floresta aciculifoliada, mata de transição e mata ciliar. ",
+    "alternativa_b": "mata de igapó, mata de várzea e mata de terra firme. ",
+    "alternativa_c": "restinga, campos limpos e mata dos cocais. ",
+    "alternativa_d": "pantanal, cerrado e floresta de araucária. ",
+    "alternativa_e": "caatinga, campos sujos e manguezais. ",
+    "resposta": "B"
+  },
+  {
+    "id": 3,
+    "indice": 4,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Biologia",
+      "Geografia"
+    ],
+    "enunciado": "Considerando o tipo de vegetação, é correto afirmar que o Bioma Amazônia se caracteriza, principalmente, por apresentar ",
+    "alternativa_a": "gramíneas e plantas arbustivas; árvores de pequeno e médio porte, com folhas transformadas em espinhos para diminuir a transpiração e caules suculentos que armazenam água. ",
+    "alternativa_b": "plantas, que se desenvolvem em solos lamacentos e salgados, com troncos finos, cujas raízes se adaptam à fixação e se elevam à superfície para permitir a respiração. ",
+    "alternativa_c": "plantas herbáceas e arbustivas que compõem os campos; árvores de médio porte, geralmente com troncos grossos e retorcidos, folhas de superfície reduzida e raízes profundas. ",
+    "alternativa_d": "árvores de médio e grande porte, com folhas largas e perenes; vários tipos de flores e frutos; além de diversos tipos de arbustos, trepadeiras, cipós e planta epífitas. ",
+    "alternativa_e": "gramíneas; plantas herbáceas; leguminosas; algumas árvores de pequeno porte; além da presença de matas ciliares e algumas árvores decíduas.",
+    "resposta": "D"
+  },
+  {
+    "id": 4,
+    "indice": 5,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto",
+      "Interpretação de poema"
+    ],
+    "enunciado": "Segundo a letra da canção, ",
+    "alternativa_a": "a falta de mobilização dos povos originários para proteger os biomas mencionados resulta do curto período de convivência com a floresta. ",
+    "alternativa_b": "a destruição da Floresta Amazônica gera prejuízos à vida animal e à vegetal, amenizando os impactos na vida e na cultura daqueles que a habitam. ",
+    "alternativa_c": "os povos originários aliaram-se recentemente aos guardiões da floresta, quando houve um recrudescimento trágico do desmatamento. ",
+    "alternativa_d": "a Amazônia é alvo de exploração pelo caráter único de suas riquezas, ação facilitada pela ausência de medidas efetivas de proteção. ",
+    "alternativa_e": "os ataques à Floresta Amazônica, além de esporádicos, acarretam consequências reversíveis e restritas à fauna local. ",
+    "resposta": "D",
+    "texto": 1
+  },
+  {
+    "id": 5,
+    "indice": 6,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Gramática"
+    ],
+    "enunciado": "Sobre os recursos gramaticais utilizados na construção do texto, é correto afirmar que ",
+    "alternativa_a": "os termos ''porém´´ (v. 5), ''pois´´ (v. 8) e ''todavia´´ (v. 9) têm o mesmo sentido. ",
+    "alternativa_b": "os pronomes ''seus´´ (v. 24) e ''eles´´ (v. 25) se referem à mesma ideia, mencionada anteriormente no texto. ",
+    "alternativa_c": "os dois-pontos, utilizados nos versos 4 e 9, introduzem uma justificativa para os fatos apresentados. ",
+    "alternativa_d": "o vocábulo ''que´´, nos versos 7 e 8, retoma ''mundo´´ e ''vida´´ respectivamente. ",
+    "alternativa_e": "os pronomes ''seu´´ (v. 17) e ''deles´´ (v. 21) antecipam uma informação posteriormente apresentada no texto. ",
+    "resposta": "B",
+    "texto": 1
+  },
+  {
+    "id": 6,
+    "indice": 7,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Semântica"
+    ],
+    "enunciado": "Na letra dessa canção, ocorre ",
+    "alternativa_a": "metáfora no trecho ''contra trator, corrente, motosserra´´, verso 03, pois os objetos listados simbolizam a superação da floresta contra as ameaças externas. ",
+    "alternativa_b": "antítese entre ''beleza´´ e ''valor´´, verso 6, pois são termos de sentido oposto. ",
+    "alternativa_c": "paronomásia no excerto ''tanta insânia e tanta insônia´´, verso 12, pois se aproximam termos com sons semelhantes e sentidos diferentes. ",
+    "alternativa_d": "paradoxo em ''nos últimos e trágicos decênios´´, verso 19, pois o conceito de ''trágico´´ anula a ideia de novidade, expressa pelo termo ''últimos´´. ",
+    "alternativa_e": "personificação na passagem ''eles não pensam´´, verso 25, pois se atribui a capacidade de pensar a seres inanimados. ",
+    "resposta": "C",
+    "texto": 1
+  },
+  {
+    "id": 7,
+    "indice": 8,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Biologia"
+    ],
+    "enunciado": "Nos rios que cortam a Floresta Amazônica, são encontradas várias espécies de vertebrados, como, por exemplo, o pirarucu, o poraquê (peixe elétrico), a arraia (ou raia), o tucunaré, o peixe-boi e o boto-cor-de-rosa. Este último é conhecido por ser personagem de uma lenda do folclore brasileiro. \nCom relação a todos os animais citados, é correto afirmar que ",
+    "alternativa_a": "realizam as trocas gasosas por meio de um par de pulmões do tipo alveolar com paredes muito delgadas. ",
+    "alternativa_b": "conseguem manter a temperatura corporal constante apesar de alterações da temperatura ambiental. ",
+    "alternativa_c": "dependem de oxigênio, que é usado na oxidação de moléculas orgânicas, como a glicose, a fim de obter energia. ",
+    "alternativa_d": "apresentam fecundação externa, com desenvolvimento indireto por meio de fase larval, seguida de metamorfose. ",
+    "alternativa_e": "possuem bexiga natatória, que é um órgão responsável pela manutenção do equilíbrio hidrostático.",
+    "resposta": "C"
+  },
+  {
+    "id": 8,
+    "indice": 9,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "De acordo com o texto, é correto afirmar que ",
+    "alternativa_a": "a floresta Amazônica brasileira tem 670 milhões de hectares. ",
+    "alternativa_b": "a maior floresta tropical do mundo está localizada totalmente em território brasileiro. ",
+    "alternativa_c": "o Brasil pode comprar créditos de carbono para custear a Floresta Amazônica. ",
+    "alternativa_d": "países que emitem gases do efeito estufa em excesso podem adquirir créditos de carbono como forma de compensação. ",
+    "alternativa_e": "cada tonelada de gases do efeito estufa não emitida, como dióxido de carbono e metano, equivale a 1 crédito de carbono. ",
+    "resposta": "D",
+    "texto": 2
+  },
+  {
+    "id": 9,
+    "indice": 10,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Aritmética"
+    ],
+    "enunciado": "Considere os números destacados em negrito no texto e assinale a alternativa que apresenta, em notação científica, o seu produto. ",
+    "alternativa_a": "$1{,}0\\times10^{14}$",
+    "alternativa_b": "$1{,}0\\times10^{13}$ ",
+    "alternativa_c": "$1{,}0\\times10^{12}$",
+    "alternativa_d": "$1{,}0\\times10^{11}$",
+    "alternativa_e": "$1{,}0\\times10^{10}$",
+    "resposta": "D",
+    "texto": 2
+  },
+  {
+    "id": 10,
+    "indice": 11,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Aritmética",
+      "Interpretação de dados"
+    ],
+    "enunciado": "De acordo com o texto, a quantidade de créditos de carbono gerada pela parte brasileira da Floresta Amazônica seria, aproximadamente, de ",
+    "alternativa_a": "402 milhões. ",
+    "alternativa_b": "402 bilhões. ",
+    "alternativa_c": "670 milhões. ",
+    "alternativa_d": "12 060 bilhões. ",
+    "alternativa_e": "12 060 milhões. ",
+    "resposta": "E",
+    "texto": 2
+  },
+  {
+    "id": 11,
+    "indice": 12,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "História"
+    ],
+    "enunciado": "O mapa representa diferentes movimentos de ocupação de parte da América do Sul, cujo território foi disputado por Espanha e Portugal nos dois primeiros séculos da colonização europeia. \nDe acordo com a representação, é correto afirmar que ",
+    "alternativa_a": "as missões jesuíticas não só demarcavam os limites entre as possessões espanhola e portuguesa, mas também garantiam a posse da Amazônia para a Espanha. ",
+    "alternativa_b": "a ocupação da América Portuguesa ocorreu na costa atlântica, em detrimento da região da Amazônia, que permaneceu despovoada até o final do século XVII. ",
+    "alternativa_c": "a integração da Amazônia ao território da colônia portuguesa está relacionada à presença de missões jesuíticas e de expedições para escravização de indígenas. ",
+    "alternativa_d": "as expedições de apresamento se estabeleceram na Amazônia Espanhola, e, de lá, partiram para o leste a fim de escravizar os indígenas que viviam na colônia portuguesa. ",
+    "alternativa_e": "a presença de missões jesuíticas portuguesas na Amazônia indica que essa região pertencia a Portugal, de acordo com os tratados internacionais vigentes no período colonial.",
+    "resposta": "C",
+    "imagem": "img1.png"
+  },
+  {
+    "id": 12,
+    "indice": 13,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Geometria"
+    ],
+    "enunciado": "Suponha que um caçador mal-intencionado seja perseguido pelo Curupira. Ele parte de um ponto P na floresta, caminha $\\qty{6}{\\km}$ a leste e $\\qty{16}{\\km}$ para sul, quando percebe que está em uma clareira. Para sair da floresta, ele então caminha $\\qty{10}{\\km}$ para leste e $\\qty{4}{\\km}$ para o norte, chegando ao acampamento A. \nLogo, é correto afirmar que a distância (em linha reta), em quilômetros, entre o ponto P e o acampamento A, é igual a ",
+    "alternativa_a": "18. ",
+    "alternativa_b": "20. ",
+    "alternativa_c": "26. ",
+    "alternativa_d": "28. ",
+    "alternativa_e": "32. ",
+    "resposta": "B",
+    "texto": 3
+  },
+  {
+    "id": 13,
+    "indice": 14,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Com base no texto, o gênero textual abordado cumpre a função social de ",
+    "alternativa_a": "colocar em destaque a revolução promovida pela tecnologia digital, já que essa mudança padroniza e limita a forma de aprender do estudante. ",
+    "alternativa_b": "debater sobre os movimentos migratórios, cada vez maiores no nosso país, os quais prejudicam o surgimento de culturas novas na sociedade. ",
+    "alternativa_c": "discutir as mudanças no núcleo familiar devido à dedicação exclusiva dos responsáveis a atividades profissionais, prejudicando a comunicação com as gerações mais jovens. ",
+    "alternativa_d": "valorizar as identidades construídas ao longo do tempo, ao perceber que muitas pessoas passaram pelo mundo, deixando ensinamentos e experiências. ",
+    "alternativa_e": "visualizar as mudanças laborais, uma vez que está cada vez mais fácil conseguir um trabalho formal na área de caça, pesca e apreensão de animais em áreas protegidas. ",
+    "resposta": "D",
+    "texto": 3
+  },
+  {
+    "id": 14,
+    "indice": 15,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "De acordo com o texto, os ensinamentos e as histórias dos povos da Região Amazônica são transmitidos por meio de fontes ",
+    "alternativa_a": "escritas. ",
+    "alternativa_b": "iconográficas. ",
+    "alternativa_c": "materiais. ",
+    "alternativa_d": "orais. ",
+    "alternativa_e": "arqueológicas.",
+    "resposta": "D",
+    "texto": 3
+  },
+  {
+    "id": 15,
+    "indice": 16,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Física"
+    ],
+    "enunciado": "A formação da imagem da Lua, vista por Naiá, é justificada pelo fenômeno óptico da ",
+    "alternativa_a": "refração da luz, proveniente da Lua, no fundo do lago. ",
+    "alternativa_b": "ilusão de óptica criada pelo movimento das águas do lago. ",
+    "alternativa_c": "reflexão dos raios de luz, provenientes da Lua, pela superfície do lago. ",
+    "alternativa_d": "absorção dos raios de luz, provenientes da Lua, pela superfície do lago. ",
+    "alternativa_e": "projeção holográfica dos raios de luz, provenientes da Lua, na superfície do lago. ",
+    "resposta": "C",
+    "texto": 4
+  },
+  {
+    "id": 16,
+    "indice": 17,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Física"
+    ],
+    "enunciado": "A capacidade de flutuação das folhas da vitória-régia é resultado de diversas adaptações evolutivas para sobreviver em ambientes aquáticos: a forma circular contribui para que haja uma distribuição uniforme do peso e, principalmente, suas folhas têm uma série de compartimentos cheios de ar nos tecidos vegetais, o que as ajuda a manter sua flutuação. \nEssas adaptações podem ser comparadas ao uso de ",
+    "alternativa_a": "pés de pato por mergulhadores. ",
+    "alternativa_b": "sinalizadores em barcos de passeio. ",
+    "alternativa_c": "toucas de natação por competidores olímpicos. ",
+    "alternativa_d": "coletes salva-vidas infláveis por pessoas que não sabem nadar. ",
+    "alternativa_e": "roupas de neoprene por surfistas durante as competições no mar. ",
+    "resposta": "D",
+    "texto": 4
+  },
+  {
+    "id": 17,
+    "indice": 18,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Geografia"
+    ],
+    "enunciado": "No final do século XIX, eclodiu uma rebelião no Acre, que se prolongou por alguns anos e, ante a ameaça de uma intervenção direta do governo brasileiro, foi firmado o Tratado de Petrópolis entre os governos da Bolívia e do Brasil, em 1903. Foi por isso que a Bolívia cedeu o território do Acre ao Brasil em troca de dois milhões de libras esterlinas; e o governo brasileiro se comprometeu a construir a estrada de ferro Madeira – Mamoré. \nSobre esse estado da federação, é correto afirmar que nele se encontra o ponto ",
+    "alternativa_a": "central Geodésico do território brasileiro, localizado em sua capital. ",
+    "alternativa_b": "mais ocidental do território brasileiro, a nascente do Rio Moa. ",
+    "alternativa_c": "mais setentrional do território brasileiro, a nascente do Rio Ailã. ",
+    "alternativa_d": "mais oriental do território brasileiro, a Ponta do Seixas. ",
+    "alternativa_e": "mais meridional do território brasileiro, o Arroio Chuí.",
+    "resposta": "B"
+  },
+  {
+    "id": 18,
+    "indice": 19,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Segundo o texto, ",
+    "alternativa_a": "os anciões indígenas decidiram expor seus conhecimentos por meio de ideogramas devido à limitação cultural dos não indígenas. ",
+    "alternativa_b": "o povo Yanomami garante bem-estar social duradouro para as próximas gerações ao seguir os padrões de vida dos brancos. ",
+    "alternativa_c": "a exploração da caça e da pesca realizada pelos Yanomami é fruto do contato com o saber trazido pelos brancos colonizadores. ",
+    "alternativa_d": "a forma de divulgação da cultura dos povos originários para o restante da sociedade deve restringir-se à oralidade. ",
+    "alternativa_e": "o equilíbrio na relação entre natureza e homem é base e garantia da manutenção da cultura Yanomami. ",
+    "resposta": "E",
+    "texto": 5
+  },
+  {
+    "id": 19,
+    "indice": 20,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Assinale a alternativa que apresenta uma reescrita correta e coerente do trecho sublinhado no texto. ",
+    "alternativa_a": "Acredito que, caso vivamos em cidades, seríamos infelizes, já que haveria o fim da floresta e, então, não deixarão lugar onde poderemos viver distante deles. ",
+    "alternativa_b": "Como fomos viver em cidades, somos infelizes, pois os brancos acabam com a floresta e não deixaram lugar onde pudéssemos viver distante deles. ",
+    "alternativa_c": "E reconheço que, caso fôssemos viver em suas cidades, seríamos infelizes; eles acabariam, pois, com a floresta e não deixariam lugar onde pudéssemos viver distante deles. ",
+    "alternativa_d": "Ainda que fôssemos viver nas cidades dos brancos, não seremos felizes, pois eles acabaram com a floresta e não deixariam lugar onde poderíamos viver distante deles. ",
+    "alternativa_e": "Afirmo até que, ao irmos viver nas cidades, seremos infelizes, posto que eles acabam com a floresta e não deixam lugar onde pudemos viver distante deles. ",
+    "resposta": "C",
+    "texto": 5
+  },
+  {
+    "id": 20,
+    "indice": 21,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "A leitura é representada, no texto, pela metáfora ",
+    "alternativa_a": "''viver longe deles´´. ",
+    "alternativa_b": "''nos tornar brancos´´. ",
+    "alternativa_c": "''pensar coisas da floresta´´. ",
+    "alternativa_d": "''fixar os olhos em peles de papel´´. ",
+    "alternativa_e": "''desenhar na língua dos brancos´´. ",
+    "resposta": "D",
+    "texto": 5
+  },
+  {
+    "id": 21,
+    "indice": 22,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Segundo o texto, ",
+    "alternativa_a": "os habitantes da Amazônia estabelecem relações harmônicas entre si e com a floresta e, por isso, não experienciam os principais problemas enfrentados pelas populações urbanas. ",
+    "alternativa_b": "Chico Mendes se dedicou a refletir sobre a sua relação com a floresta, desconsiderando causas sociais, como a questão fundiária. ",
+    "alternativa_c": "o fato de ter sido alfabetizado tardiamente afetou a compreensão de Chico Mendes, que não soube se posicionar sobre as questões sociais e ambientais de seu entorno. ",
+    "alternativa_d": "as vivências e práticas na floresta proporcionaram a Chico Mendes uma série de saberes os quais o levaram a formular uma teoria ambiental, que, mais tarde, foi comprovada por outras pessoas. ",
+    "alternativa_e": "Chico Mendes passou toda a sua vida isolado na floresta, sem estabelecer contatos com outras partes do Brasil e do mundo e, por isso, não foi bem sucedido em sua luta. ",
+    "resposta": "D",
+    "texto": 6
+  },
+  {
+    "id": 22,
+    "indice": 23,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto",
+      "Biologia"
+    ],
+    "enunciado": "Entre os diversos mecanismos sugeridos para explicar como a derrubada da Floresta Amazônica contribuiria para o aumento da incidência da doença citada na pesquisa, é correto afirmar que ",
+    "alternativa_a": "a destruição completa do ambiente natural de reprodução dos insetos transmissores, decorrente do efeito estufa e da diminuição da camada de ozônio, favoreceria a proliferação das bactérias que causam essa doença, levando ao aumento do número de casos. ",
+    "alternativa_b": "o aumento da migração humana para fazendas, assentamentos e garimpos nas áreas desmatadas, junto com a adaptação dos insetos transmissores aos novos habitats, contribuiria para o aumento da transmissão dos parasitas causadores dessa doença. ",
+    "alternativa_c": "o desmatamento teria ocasionado a diminuição das superfícies aquáticas e o aparecimento de várias espécies de caramujos, hospedeiros das larvas dos insetos transmissores dessa doença. ",
+    "alternativa_d": "os insetos transmissores, conhecidos popularmente como barbeiros, e outras várias espécies diferentes, após o desmatamento, teriam ficado altamente eficientes para a transmissão dessa doença. ",
+    "alternativa_e": "as condições ambientais nas regiões desmatadas da floresta, tais como temperaturas muito baixas e baixos índices pluviométricos, junto com a ausência dos insetos transmissores, teriam aumentado a incidência dessa doença. ",
+    "resposta": "B",
+    "texto": 7
+  },
+  {
+    "id": 23,
+    "indice": 24,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de dados",
+      "Interpretação de fórmula"
+    ],
+    "enunciado": "Denúncias são importantes formas de detecção das infrações ambientais. \nUm exemplo é a Linha Verde, do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), disponibilizada para todo o Brasil. Por meio dela, o cidadão pode informar possíveis infrações ambientais através de uma Central de Atendimento. \nSuponha que a tabela apresentada registre o número de denúncias recebidas por um atendente sobre o desmatamento na Floresta Amazônica. Uma expressão algébrica que relaciona o número de denúncias (N) em função do dia do mês (D) é ",
+    "alternativa_a": "$N = 2D + 3$. ",
+    "alternativa_b": "$N = D + 3$. ",
+    "alternativa_c": "$N = 3D + 1$. ",
+    "alternativa_d": "$N = D + 2$. ",
+    "alternativa_e": "$N = 2D + 1$. ",
+    "resposta": "A",
+    "imagem": "img2.png"
+  },
+  {
+    "id": 24,
+    "indice": 25,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de dados"
+    ],
+    "enunciado": "A usina de Belo Monte, no estado do Pará, é uma das maiores hidrelétricas do mundo. Possui capacidade instalada de aproximadamente 11 200 MW e fornece cerca de 4 500 MW de potência. Além disso, alaga uma região de cerca de 500 km². \nCom base apenas nos dados fornecidos para as usinas de Balbina e de Belo Monte, localizadas na região Amazônica, é possível avaliar a crítica, presente no texto, à instalação da hidrelétrica de Balbina como ",
+    "alternativa_a": "incoerente, dado que 3 000 km² de área alagada não causam um impacto ambiental significativo para ser considerado um desastre. ",
+    "alternativa_b": "coerente, já que são fornecidos apenas dados relativos à área alagada, que não são suficientes para analisar o impacto ambiental da usina de Balbina. ",
+    "alternativa_c": "incoerente, uma vez que a usina de Belo Monte alaga uma região maior e tem potencial energético menor do que a usina de Balbina. ",
+    "alternativa_d": "coerente, visto que a usina de Balbina alaga uma área maior e tem potencial energético menor do que a usina de Belo Monte. ",
+    "alternativa_e": "incoerente, na medida em que o potencial energético de ambas as usinas é similar. ",
+    "resposta": "D",
+    "texto": 8
+  },
+  {
+    "id": 25,
+    "indice": 26,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "De acordo com o texto, os ''paliteiros´´ mencionados se formaram ",
+    "alternativa_a": "devido à instalação de indústrias madeireiras na Zona Franca de Manaus. ",
+    "alternativa_b": "pela ação dos garimpeiros ilegais que poluíam as águas do rio Amazonas. ",
+    "alternativa_c": "em consequência do aquecimento global, que impacta a flora e a fauna amazônicas. ",
+    "alternativa_d": "pela ação de madeireiros que atuavam no município de Presidente Figueiredo. ",
+    "alternativa_e": "em consequência da inundação do reservatório da usina hidrelétrica de Balbina. ",
+    "resposta": "E",
+    "texto": 8
+  },
+  {
+    "id": 26,
+    "indice": 27,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de dados",
+      "Interpretação de fórmula"
+    ],
+    "enunciado": "O Fator de Capacidade ($\\eta$), em uma usina hidrelétrica, expressa a razão entre a capacidade real de transformação de seu potencial energético ($\\Delta P_U$) e a capacidade instalada ($\\Delta P_T$), ou seja, $\\eta = \\frac{\\Delta P_U }{\\Delta P_T}$.\n Dessa forma, o fator $\\eta$ de capacidade da usina hidrelétrica de Balbina é de, aproximadamente, ",
+    "alternativa_a": "$0{,}08$. ",
+    "alternativa_b": "$0{,}32$. ",
+    "alternativa_c": "$0{,}40$. ",
+    "alternativa_d": "$2{,}50$. ",
+    "alternativa_e": "$3{,}13$.",
+    "resposta": "B",
+    "texto": 8
+  },
+  {
+    "id": 27,
+    "indice": 28,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de dados",
+      "Interpretação de gráfico"
+    ],
+    "enunciado": "É possível concluir corretamente que, em exatamente três quintos dos anos apresentados no gráfico, o desmatamento registrado ano a ano foi ",
+    "alternativa_a": "maior que $\\qty{5 000}{\\km^2}$",
+    "alternativa_b": "maior que $\\qty{6 000}{\\km^2}$",
+    "alternativa_c": "igual a $\\qty{4 000}{\\km^2}$",
+    "alternativa_d": "menor $\\qty{2 000}{\\km^2}$",
+    "alternativa_e": "menor $\\qty{3 000}{\\km^2}$",
+    "resposta": "E",
+    "imagem": "img3.png"
+  },
+  {
+    "id": 28,
+    "indice": 29,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de dados",
+      "Interpretação de gráfico"
+    ],
+    "enunciado": "A amplitude total, em um conjunto de dados, é a diferença entre o maior e o menor valor observado nesse conjunto. \nAnalise o conjunto de dados apresentados no gráfico e assinale a alternativa que apresenta a sua amplitude total. ",
+    "alternativa_a": "9 069 ",
+    "alternativa_b": "8 061 ",
+    "alternativa_c": "7 023 ",
+    "alternativa_d": "3 555 ",
+    "alternativa_e": "2 283 ",
+    "resposta": "B",
+    "imagem": "img3.png"
+  },
+  {
+    "id": 29,
+    "indice": 30,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Química"
+    ],
+    "enunciado": "Os compostos mencionados são gases ",
+    "alternativa_a": "que protegem a Terra da radiação infravermelha. ",
+    "alternativa_b": "que protegem a Terra da radiação ultravioleta. ",
+    "alternativa_c": "do efeito estufa, os quais amenizam a temperatura global. ",
+    "alternativa_d": "do efeito estufa, os quais destroem a camada de ozônio. ",
+    "alternativa_e": "do efeito estufa, os quais potencializam o aquecimento global. ",
+    "resposta": "E",
+    "texto": 9
+  },
+  {
+    "id": 30,
+    "indice": 31,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Química"
+    ],
+    "enunciado": "Por estarem localizadas próximas à linha do Equador, as regiões de clima equatorial recebem luz solar direta durante todo o ano, o que contribui para elevada umidade do ar e temperaturas altas e relativamente estáveis. Nas florestas ocorre a evapotranspiração, processo que combina a liberação de água na atmosfera, por meio da transpiração das folhas, com a evaporação da água existente no ambiente.\n A evapotranspiração desempenha um papel fundamental como regulador no clima porque, conforme a água evapora, ela ",
+    "alternativa_a": "contribui na formação de arco-íris por meio da refração dos raios solares, e consequentemente aquece o ambiente. ",
+    "alternativa_b": "produz gás hidrogênio, um gás combustível que pode liberar calor para o ambiente, e consequentemente o aquecer. ",
+    "alternativa_c": "libera átomos de hidrogênio e oxigênio no ambiente, consequentemente o resfriando. ",
+    "alternativa_d": "consome oxigênio do ambiente, consequentemente o resfriando. ",
+    "alternativa_e": "absorve calor do ambiente, e consequentemente o resfria. ",
+    "resposta": "E"
+  },
+  {
+    "id": 31,
+    "indice": 32,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Com base no texto, é correto afirmar que os rios voadores ",
+    "alternativa_a": "despejam milhões de metros cúbicos de água por segundo no oceano Índico. ",
+    "alternativa_b": "tornam-se afluentes do rio Amazonas e deságuam nas bacias hidrográficas do sul do Brasil. ",
+    "alternativa_c": "são um dos responsáveis pelas chuvas em alguns estados brasileiros e em alguns países fronteiriços ao Brasil. ",
+    "alternativa_d": "derivam de árvores da Mata Tropical Atlântica, encravadas no alto da Cordilheira dos Andes e no Chaco paraguaio. ",
+    "alternativa_e": "nascem no oceano Atlântico e percorrem todo o litoral ocidental brasileiro até atingir as áreas situadas no centro-sul do Brasil. ",
+    "resposta": "C",
+    "texto": 10
+  },
+  {
+    "id": 32,
+    "indice": 33,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Segundo o IBGE, no Brasil, mais de $80\\%$ da população vive em áreas urbanas. Isso, entretanto, não impede a sociedade de se mobilizar e de realizar ações que possam auxiliar na preservação das florestas e das espécies ameaçadas de extinção. \nEmbora ninguém consiga promover grandes mudanças sozinho, algumas atitudes podem fazer a diferença na preservação do meio ambiente e da biodiversidade, como ",
+    "alternativa_a": "evitar comprar de pequenos produtores de hortifrúti que, por produzirem em menor escala, aumentam as áreas desmatadas e, consequentemente, o impacto ambiental. ",
+    "alternativa_b": "comprar móveis e papéis cuja matéria-prima não seja de reflorestamento ou de empresas sem certificação de fonte legal e sustentável. ",
+    "alternativa_c": "aumentar o consumo de itens descartáveis, como guardanapos, papéis, pratos e canudos, evitando a reciclagem de produtos usados. ",
+    "alternativa_d": "aumentar o consumo de carne bovina, pois, na criação extensiva de gado, as florestas são derrubadas para dar espaço ao pasto. ",
+    "alternativa_e": "plantar árvores nativas, com autorização de órgãos responsáveis, para ajudar no reflorestamento de áreas urbanas e rurais. ",
+    "resposta": "E"
+  },
+  {
+    "id": 33,
+    "indice": 34,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Assinale a alternativa que apresenta um projeto cujo objetivo é semelhante ao apresentado no texto. ",
+    "alternativa_a": "GASTROMOTIVA: utiliza o alimento como ferramenta de transformação social por meio da educação, da inclusão e do combate ao desperdício. ",
+    "alternativa_b": "CONSERV: remunera produtores locais que preservam vinte mil hectares de floresta e de cerrado. ",
+    "alternativa_c": "AMPARA: protege animais que foram abandonados e foram vítimas de maus-tratos. ",
+    "alternativa_d": "MÃE CANGURU: ajuda mães solo em situação de vulnerabilidade social. ",
+    "alternativa_e": "MORAR PRIMEIRO: dá moradia social para a população de rua. ",
+    "resposta": "B",
+    "texto": 11
+  },
+  {
+    "id": 34,
+    "indice": 35,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "A implantação dos SAFs é uma intervenção que visa a ",
+    "alternativa_a": "facilitar a implantação de projetos agropecuários que reduzam o tamanho da floresta e aumentem a extensão dos pastos. ",
+    "alternativa_b": "atender ao interesse de madeireiros que buscam aumentar sua renda com a venda de madeira ilegal para o exterior. ",
+    "alternativa_c": "minimizar a devastação da Floresta Amazônica, aliando o aumento de renda à redução de danos ambientais. ",
+    "alternativa_d": "colaborar com a ampliação das malhas rodoviária e ferroviária da Amazônia para facilitar o escoamento de produtos da floresta. ",
+    "alternativa_e": "apoiar o grande proprietário para que este possa ter facilidades na regularização fundiária e agregar terras indígenas ao seu patrimônio. ",
+    "resposta": "C",
+    "texto": 12
+  },
+  {
+    "id": 35,
+    "indice": 36,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "No período colonial, eram chamados de ''drogas do sertão´´ os produtos nativos ou aclimatados que tinham origem na região Norte, onde se localizam atualmente os estados do Amazonas, do Pará e do Maranhão. Eram especiarias, castanhas, frutas, ervas, sementes, tintas e animais originários da Amazônia, como o peixe-boi e as tartarugas. \nO início da exploração desses produtos ",
+    "alternativa_a": "estimulou o fluxo migratório de nordestinos, que buscavam alternativas à seca; e de escravizados das regiões Sul e Sudeste que, na floresta, refugiaram-se em comunidades quilombolas. ",
+    "alternativa_b": "permitiu a integração da Amazônia ao restante da colônia, já que incentivou a abertura de estradas e ferrovias que a ligavam a diferentes partes do território nacional. ",
+    "alternativa_c": "enfraqueceu o controle e a fiscalização das fronteiras, impondo dificuldades ao Exército no monitoramento eficiente da área. ",
+    "alternativa_d": "promoveu o desenvolvimento da pecuária e o surgimento de um cinturão verde que combinava segurança jurídica, controle ambiental e inovações tecnológicas. ",
+    "alternativa_e": "combinou as necessidades portuguesas de conter a presença estrangeira na colônia e de suprir parte da demanda europeia por especiarias, já que o comércio com o Oriente estava em declínio. ",
+    "resposta": "E"
+  },
+  {
+    "id": 36,
+    "indice": 37,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "De acordo com o texto, é correto afirmar que ",
+    "alternativa_a": "as plantas são uma única fábrica de produtos químicos. ",
+    "alternativa_b": "os químicos avaliam as atividades biológicas de substâncias naturalmente presentes nas plantas. ",
+    "alternativa_c": "as moléculas estudadas apresentam uma estrutura igual em qualquer planta estudada. ",
+    "alternativa_d": "alguns químicos procuram isolar e determinar a estrutura das moléculas; e outros procuram produzi-las em laboratório. ",
+    "alternativa_e": "os biólogos participam do isolamento, da determinação das estruturas moleculares e da análise das atividades biológicas dessas estruturas. ",
+    "resposta": "D",
+    "texto": 13
+  },
+  {
+    "id": 37,
+    "indice": 38,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "História"
+    ],
+    "enunciado": "Sobre o contexto histórico a que o texto se refere, é correto afirmar que ",
+    "alternativa_a": "a insuficiência de mão de obra na Amazônia coincidiu com uma seca severa no Nordeste brasileiro, entre 1877 e 1879, e produziu uma grande migração de agricultores pobres do sertão em direção à Amazônia, atraídos pela dinâmica econômica do Ciclo da Borracha. ",
+    "alternativa_b": "o aumento da procura internacional por borracha provocou o declínio da atividade extrativista do látex na Amazônia, que não resistiu à concorrência dos produtores de borracha sintética do Sudeste brasileiro. ",
+    "alternativa_c": "a política de fortalecimento da indústria nacional, implementada por Getúlio Vargas, permitiu a instalação das primeiras empresas produtoras de bicicletas em território nacional e incentivou a demanda pela borracha produzida na Amazônia. ",
+    "alternativa_d": "o ápice do Ciclo da Borracha na Amazônia coincidiu com a introdução de capitais estrangeiros no Brasil, no governo de Juscelino Kubitschek, para estimular o setor de transporte, principalmente para a instalação da indústria automobilística na região metropolitana de São Paulo. ",
+    "alternativa_e": "a alta demanda de látex da Amazônia, no período chamado de Ciclo da Borracha, deve-se à dinâmica da indústria nacional de pneus que, além de produzir para o mercado interno, também exportava seus produtos para Estados Unidos, França, Argentina e México.",
+    "resposta": "A",
+    "texto": 14
+  },
+  {
+    "id": 38,
+    "indice": 39,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Biologia"
+    ],
+    "enunciado": "A relação ecológica entre a cutia e a castanheira-do-brasil, tal como descrita no texto, é denominada ",
+    "alternativa_a": "comensalismo. ",
+    "alternativa_b": "predatismo. ",
+    "alternativa_c": "mutualismo. ",
+    "alternativa_d": "parasitismo. ",
+    "alternativa_e": "competição. ",
+    "resposta": "C",
+    "texto": 15
+  },
+  {
+    "id": 39,
+    "indice": 40,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de fórmula"
+    ],
+    "enunciado": "Para estimar o volume do tronco de uma árvore, pode-se utilizar a relação $V = (H\\cdot\\pi\\cdot r^2)\\div 3$, na qual $V$ indica o volume do tronco, $H$ a altura da árvore e $r$ é o raio da base da árvore. \nUtilizando as medidas fornecidas no texto e a relação matemática dada, é correto estimar o volume mínimo do tronco de uma castanheira, em $\\unit{\\m^3}$, em cerca de ",
+    "alternativa_a": "$100\\pi\\div3$. ",
+    "alternativa_b": "$200\\pi\\div3$. ",
+    "alternativa_c": "$400\\pi\\div3$. ",
+    "alternativa_d": "$500\\pi\\div3$. ",
+    "alternativa_e": "$800\\pi\\div3$. ",
+    "resposta": "B",
+    "texto": 15
+  },
+  {
+    "id": 40,
+    "indice": 41,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Com base no texto, é correto afirmar que as castanheiras possuem ",
+    "alternativa_a": "frutos esféricos, muito duros e secos, que se abrem espontaneamente no alto das árvores, liberando as amêndoas do interior das sementes. ",
+    "alternativa_b": "estruturas reprodutivas, denominadas ouriços, com cascas suculentas e ricas em substâncias nutritivas necessárias à germinação das sementes. ",
+    "alternativa_c": "amêndoas ricas em proteínas, em carboidratos e em outras substâncias que ajudam a manter uma dieta saudável e a fortalecer a imunidade do organismo. ",
+    "alternativa_d": "sementes com substâncias tóxicas responsáveis por causar inúmeros problemas à saúde humana, como depressão, fadiga e estresse. ",
+    "alternativa_e": "sementes conhecidas como ouriços, que caem das árvores e servem de alimento para as cutias, as quais comem sua casca nutritiva. ",
+    "resposta": "C",
+    "texto": 15
+  },
+  {
+    "id": 41,
+    "indice": 42,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de fórmula"
+    ],
+    "enunciado": "Suponha que um fruto caia de uma castanheira-do-brasil, a partir do repouso, de uma altura de 45 metros do chão, em uma queda livre de qualquer força dissipativa, e assuma que a aceleração gravitacional é igual a $\\qty{10}{\\m\\per\\s^2}. \nPode-se determinar a sua velocidade ao atingir o chão por meio da equação $v = \\sqrt{2gH}$ , em que a velocidade ($v$) depende da altura de queda ($H$) e da aceleração gravitacional ($g$). \nAssinale a alternativa que apresenta a velocidade, em $\\unit{\\m\\per\\s}$, com que o fruto de uma cas⋅tan⋅heira-do-brasil atingiria o chão. ",
+    "alternativa_a": "$30 $",
+    "alternativa_b": "$25$ ",
+    "alternativa_c": "$10$ ",
+    "alternativa_d": "$9$ ",
+    "alternativa_e": "$3$ ",
+    "resposta": "A",
+    "texto": 15
+  },
+  {
+    "id": 42,
+    "indice": 43,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Química"
+    ],
+    "enunciado": "Assinale a alternativa que apresenta a fórmula do principal componente do sal mencionado no texto. ",
+    "alternativa_a": "\\ce{CaO} ",
+    "alternativa_b": "\\ce{Na2O} ",
+    "alternativa_c": "\\ce{CaC2} ",
+    "alternativa_d": "\\ce{CaCO3} ",
+    "alternativa_e": "\\ce{NaC2}",
+    "resposta": "D",
+    "texto": 16
+  },
+  {
+    "id": 43,
+    "indice": 44,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Química"
+    ],
+    "enunciado": "Quando o petróleo é extraído, ele é separado em diferentes frações por meio de um processo denominado destilação fracionada. Dessas frações, obtêm-se combustíveis como gás natural, gás liquefeito de petróleo, gasolina e diesel. \nEsses combustíveis são de origem ",
+    "alternativa_a": "fóssil, portanto de fonte renovável. ",
+    "alternativa_b": "fóssil, portanto de fonte não renovável. ",
+    "alternativa_c": "não fóssil, portanto de fonte não renovável. ",
+    "alternativa_d": "animal, portanto de fonte renovável. ",
+    "alternativa_e": "vegetal, portanto de fonte renovável. ",
+    "resposta": "B"
+  },
+  {
+    "id": 44,
+    "indice": 45,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto",
+      "Interpretação de imagem"
+    ],
+    "enunciado": "A tirinha utiliza a ironia para evidenciar que apenas o esforço, em determinadas situações, não traz resultados favoráveis ao indivíduo, levando-o à decepção vivenciada por outros. Para evitar esse desfecho, sem negligenciar os projetos de vida, deve-se ",
+    "alternativa_a": "ignorar experiências anteriores cujos resultados foram bem-sucedidos. ",
+    "alternativa_b": "permanecer dentro do que é conhecido, evitando entrar em contato com a inovação. ",
+    "alternativa_c": "imaginar cenários otimistas e sonhar com a realização de seus projetos por outros indivíduos. ",
+    "alternativa_d": "elaborar planos de ação, considerando os possíveis obstáculos à concretização de objetivos. ",
+    "alternativa_e": "confiar nos instintos e aceitar, indiscriminadamente, qualquer opinião dada por indivíduos da mesma área de atuação. ",
+    "resposta": "D",
+    "imagem": "img4.png"
+  },
+  {
+    "id": 45,
+    "indice": 46,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "De acordo com o texto, assinale a alternativa correta. ",
+    "alternativa_a": "Qualquer animal que usa toxinas para se defender ou para subjugar uma presa possui, além de glândulas de veneno, estruturas especializadas, como dentes e ferrões. ",
+    "alternativa_b": "Os animais venenosos, como o peixe baiacu, são incapazes de injetar toxina, mas podem causar o envenenamento ao serem ingeridos por seus predadores. ",
+    "alternativa_c": "Algumas serpentes, como a cascavel e a jararaca, não são animais peçonhentos, pois produzem ou modificam algum veneno e não possuem estruturas inoculadoras. ",
+    "alternativa_d": "As rãs da família Dendrobatidae são venenosas, porque produzem potentes toxinas que são inoculadas nos predadores por meio de ferrões ao serem pressionadas. ",
+    "alternativa_e": "As aranhas e os escorpiões são animais peçonhentos, porque, quando pressionados ou atacados, eliminam, passivamente por contato, substâncias tóxicas sobre suas presas. ",
+    "resposta": "B",
+    "texto": 17
+  },
+  {
+    "id": 46,
+    "indice": 47,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "História"
+    ],
+    "enunciado": "A Cabanagem, uma das chamadas Revoltas Regenciais, ocorreu em meados do século XIX, na província do Grão-Pará. \nDe modo geral, essa revolta se caracterizou ",
+    "alternativa_a": "pela insatisfação dos donos de minas de ouro com a cobrança de impostos e com a instalação de Casas de Fundição pela administração portuguesa da colônia. ",
+    "alternativa_b": "pela combinação entre as reivindicações populares por melhores condições de sobrevivência e o desejo de ascensão política de grupos locais de médio e alto poder econômico. ",
+    "alternativa_c": "pela tentativa de separar o Brasil de Portugal, instalar o regime monárquico e abolir a escravidão, em consonância com as ideias renascentistas. ",
+    "alternativa_d": "pela exigência da realização de eleições diretas ao cargo de presidente da República, suspensas durante o período da ditadura civil-militar. ",
+    "alternativa_e": "pelas demandas trabalhistas como melhores salários, jornada de trabalho de oito horas, direito a férias e fim do trabalho infantil, entre outras. ",
+    "resposta": "B"
+  },
+  {
+    "id": 47,
+    "indice": 48,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de texto"
+    ],
+    "enunciado": "Podemos partir do exemplo citado para inferir corretamente que a interpretação dos fenômenos da natureza ",
+    "alternativa_a": "não tem aplicações práticas no cotidiano dos povos que a realizam. ",
+    "alternativa_b": "está associada a grupos sociais biologicamente mais desenvolvidos do que os demais. ",
+    "alternativa_c": "está intrinsecamente relacionada à vivência e à cultura dos povos que a estruturam. ",
+    "alternativa_d": "não tem relação com o cotidiano vivenciado pelos povos que a desenvolvem. ",
+    "alternativa_e": "é realizada sem fundamentos teóricos ou observações da realidade. ",
+    "resposta": "C",
+    "texto": 18
+  },
+  {
+    "id": 48,
+    "indice": 49,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "História"
+    ],
+    "enunciado": "Leia o excerto. \nO trecho faz referência à ",
+    "alternativa_a": "Rodovia dos Tamoios, instalada sobre a antiga trilha aberta pelos indígenas tamoios do litoral norte paulista e do Rio de Janeiro. ",
+    "alternativa_b": "Estrada Real, conjunto de caminhos organizados para facilitar o trânsito de metais e pedras preciosas em direção aos portos do Rio de Janeiro. ",
+    "alternativa_c": "Rodovia Transamazônica, planejada nos anos da ditadura civil-militar com o objetivo de integrar a região Norte ao restante do país. ",
+    "alternativa_d": "Estrada Velha de Santos, usada por carros de boi para o transporte de mercadorias entre o porto de Santos e a cidade de São Paulo. ",
+    "alternativa_e": "Rodovia BR–116, a maior estrada totalmente pavimentada do Brasil, que percorre 10 estados e se encerra no Rio Grande do Sul, já na fronteira com o Uruguai. ",
+    "resposta": "C",
+    "texto": 19
+  },
+  {
+    "id": 49,
+    "indice": 50,
+    "prova": "ETEC",
+    "ano": "2024",
+    "versao": "1",
+    "tag": [
+      "Interpretação de imagem"
+    ],
+    "enunciado": "Analise a charge. \nA respeito dessa charge, pode-se concluir corretamente que ",
+    "alternativa_a": "o conhecimento da Carta Magna, promulgada em 1988, é fundamental na luta pelos direitos de povos originários. ",
+    "alternativa_b": "o gesto e os adereços da personagem expressam a submissão dos povos da América Latina ao processo de aculturação. ",
+    "alternativa_c": "os povos originários usam permanentemente a violência como ferramenta para modificar a organização sociopolítica imposta pelos não indígenas. ",
+    "alternativa_d": "a luta armada pela defesa dos direitos dos povos originários da Amazônia é garantida pela Carta de Direitos Humanos. ",
+    "alternativa_e": "os braços abertos da personagem representam o acolhimento da cultura do colonizador. ",
+    "resposta": "A",
+    "imagem": "img5.png"
+  }
+]
